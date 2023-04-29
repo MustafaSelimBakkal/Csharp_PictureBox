@@ -1,0 +1,20 @@
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\bin\Debug\picturebox.exe.config
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\bin\Debug\picturebox.exe
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\bin\Debug\picturebox.pdb
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\obj\Debug\picturebox.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\obj\Debug\picturebox.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\obj\Debug\picturebox.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\obj\Debug\picturebox.exe
+c:\users\user\documents\visual studio 2013\Projects\picturebox\picturebox\obj\Debug\picturebox.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\bin\Debug\picturebox.exe.config
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\bin\Debug\picturebox.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\bin\Debug\picturebox.pdb
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.csproj.AssemblyReference.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.csproj.SuggestedBindingRedirects.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.Form1.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.Properties.Resources.resources
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.csproj.GenerateResource.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.csproj.CoreCompileInputs.cache
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.exe
+C:\Users\bakka\Desktop\Evrensel Kodlama\ömerden aldığım kodlar\picturebox\picturebox\obj\Debug\picturebox.pdb
